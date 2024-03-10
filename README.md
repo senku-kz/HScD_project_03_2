@@ -40,13 +40,13 @@ cd build
 # Compile for x86 architecture
 ## Commit 16-21 lines in CMakeLists.txt
 ### Run CMake:
-**cmake ..**
+cmake ..
 
 ### Now, build the application by running the following:
 make
 
 ### Get information about the resulting executable binary using the file command:
-file bank_management_system_
+file bank_management_system
 
 ### fast way
 rm -rf ./* && cmake .. && make && file bank_management_system
