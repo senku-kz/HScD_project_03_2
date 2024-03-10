@@ -46,10 +46,10 @@ cd build
 make
 
 ### Get information about the resulting executable binary using the file command:
-file hello
+file bank_management_system_
 
 ### fast way
-rm -rf ./* && cmake .. && make && file hello
+rm -rf ./* && cmake .. && make && file bank_management_system
 
 
 # Compile for ARM architecture
@@ -64,7 +64,7 @@ cmake ..
 make
 
 ### Get information about the resulting executable binary using the file command:
-file hello
+file bank_management_system
 
 ### fast way
-rm -rf ./* && cmake .. && make && file hello
+rm -rf ./* && cmake .. && make && file bank_management_system
