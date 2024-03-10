@@ -1,4 +1,8 @@
 # Bank-Management
+
+git@github.com:wkhaliddev/Bank-Management.git
+
+
 In this project there a three basic portions:
 1-admin
 2-customer
@@ -19,6 +23,8 @@ can read all accounts
 can give permission to open account
 have cresidentials of all accounts
 
+
+# Write a CMakeList for an open-source C++ project of your choice, containing multiple *.h and *.cpp sourse files.
 
 ### Get the up-to-date list of packages available for the installation by running the following command:
 sudo apt update -y
